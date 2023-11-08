@@ -1,0 +1,9 @@
+1) mkdir task3 - Cоздаем директорию task3
+2) touch access.log - Создадим файл access.log
+3) vim access.log - Открываем файл access.log в vim и вставляем логи
+4) grep denied wrong password access.log | head -n 5 | sort -r - Пишем команду, которая выводит строчки denied wrong password в последних 5 коммитах и сортирует все обратно
+5) touch solutuion.txt - Создадим файл solutuoin.txt
+6) vim solutuion.txt - Открывает файл в vim
+7) Команду  grep denied wrong password access.log | head -n 5 | sort -r записываем в файл
+8) touch result.txt - Создаем файл
+9) Открываем файл - result.txt в vim - пишем все сюда
